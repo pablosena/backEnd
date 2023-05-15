@@ -1,0 +1,7 @@
+com\porfolio\senaPablo\WebConfig.class
+com\porfolio\senaPablo\repository\HabilidadesRepository.class
+com\porfolio\senaPablo\SenaPabloApplication.class
+com\porfolio\senaPablo\model\Habilidades.class
+com\porfolio\senaPablo\service\IHabilidadesService.class
+com\porfolio\senaPablo\controller\Controller.class
+com\porfolio\senaPablo\service\HabilidadesService.class
